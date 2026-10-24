@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace every YOUR-SITE-ADDRESS with your real website address
+     (for example https://growtrans.netlify.app) before submitting to Google. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-SITE-ADDRESS/</loc></url>
+  <url><loc>https://YOUR-SITE-ADDRESS/about.html</loc></url>
+  <url><loc>https://YOUR-SITE-ADDRESS/services.html</loc></url>
+  <url><loc>https://YOUR-SITE-ADDRESS/employers.html</loc></url>
+  <url><loc>https://YOUR-SITE-ADDRESS/job-seekers.html</loc></url>
+  <url><loc>https://YOUR-SITE-ADDRESS/recruiters.html</loc></url>
+  <url><loc>https://YOUR-SITE-ADDRESS/contact.html</loc></url>
+</urlset>
